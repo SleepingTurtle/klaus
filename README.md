@@ -28,6 +28,7 @@ A secret santa discord chat bot. This bot will allow administrators to run a sec
     * Export participants
     * Shipped Status
     * Dropdown with participant info
+  * At event close Admin will be able to ban users
 
 ## Infrastructure Goals
 
