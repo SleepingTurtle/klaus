@@ -5,7 +5,7 @@ A secret santa discord chat bot. This bot will allow administrators to run a sec
 ## Dev Goals
 
 * Allow participants to signup
-* Keep track of paritipants information
+* Keep track of participants information
   * Name
   * Contact/Shipping information
   * Custom attributes you collect from participants
@@ -15,10 +15,10 @@ A secret santa discord chat bot. This bot will allow administrators to run a sec
   * Opt-in switch to reveal your identity
 * Shipping Management
   * Notify Admins of Shipped status
-  * Pariticipants can enter shipping info to be notified of status
+  * Participants can enter shipping info to be notified of status
 * Admin
   * Homepage
-    * Number of pariticipants
+    * Number of participants
     * Amount of gifts shipped
     * Important Event dates
     * Activity Panel
@@ -42,3 +42,5 @@ CI/CD Pipeline
 * Python
 * Github Actions
 * Linode Instance
+
+[Public Dev Diary](https://forum.level1techs.com/t/devember2020-klaus-secret-santa-discord-bot/163657)
