@@ -2,7 +2,7 @@
 
 A secret santa discord chat bot. This bot will allow administrators to run a secret santa with the bot doing all the heavy lifting.
 
-## Goals
+## Dev Goals
 
 * Allow participants to signup
 * Keep track of paritipants information
@@ -23,6 +23,22 @@ A secret santa discord chat bot. This bot will allow administrators to run a sec
     * Important Event dates
     * Activity Panel
   * Participants page
+    * Address hidden by default
+      * Optional opt-in to reveal to admin
     * Export participants
     * Shipped Status
-    * Dropdown with all info
+    * Dropdown with participant info
+
+## Infrastructure Goals
+
+CI/CD Pipeline
+
+* Automated Package Building Process
+* Automated Package Release
+* Automated Package Versioning
+
+## Stack
+
+* Python
+* Github Actions
+* Linode Instance
